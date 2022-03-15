@@ -1,4 +1,3 @@
-# © 2022,03,15 leegeonwoo <ace9907@naver.com>
 module base_things
     mutable struct 변수
         input_num::Float64
