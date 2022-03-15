@@ -1,5 +1,3 @@
-# © 2022,03,15 leegeonwoo <ace9907@naver.com>
-
 include("./base.jl")
 using .base_things
 using Base
